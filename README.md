@@ -18,5 +18,5 @@ The main page shows us the introduction to the UFO sightnings. Afterwards we can
 The use upper case in the words to give it more aesthetic.  
 
 ## Recommendations  
--Filter through only months
+-Filter through only months  
 -The main pictures stretches too much. Better use another one that fits better.   
